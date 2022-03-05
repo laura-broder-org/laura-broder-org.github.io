@@ -5,3 +5,4 @@ permalink: /about/
 # this is a test page
 
 changing and pushing will trigger a workflow action
+changing and pushing will trigger a workflow action again
